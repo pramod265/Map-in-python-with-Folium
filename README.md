@@ -1,6 +1,7 @@
 # Map-in-python-with-Folium
 A simple maps and tutorials to Folium library of python.
 
+
 Step 0 — First things first
 
 We will construct our web map using Python and Folium. You all are aware of Python so let me brief you about Folium. It is basically a Data Visualization library to visualize geospatial data or data that involves coordinates and locations. You will find more about folium on its official project page. Moreover, If you are completely new and don’t know how to install external libraries, I recommend you using ‘pip’, which is a package/library management system, used by most of us.
